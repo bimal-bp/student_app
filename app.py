@@ -122,7 +122,7 @@ if st.button("Submit"):
     st.subheader(f"{branch} Subjects:")
     for subject, selected in branch_selections.items():
         if selected:
-            st.write(f"- {subject}")import streamlit as st
+            st.write(f"- {subject}")
 
 # Define the subjects for each branch and common subjects
 subjects = {
