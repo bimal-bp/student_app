@@ -2,7 +2,7 @@ import streamlit as st
 
 # Define the subjects for each branch and common subjects
 subjects = {
-    "Computer Science": {
+    "rrComputer Science": {
         "Programming": 10,
         "Data Structures & Algorithms": 10,
         "Operating Systems": 9,
